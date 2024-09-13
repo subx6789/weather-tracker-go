@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **Gorilla Mux** for the robust routing library.
 - **godotenv** for easy environment variable management.
 
-  ## Project Deployed with Render
+## Project Deployed with Render
 
-  - **Link:** [Weather-Tracker-Go](https://weather-tracker-go.onrender.com)
+- **Link:** [Weather-Tracker-Go](https://weather-tracker-go.onrender.com)
